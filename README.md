@@ -1,5 +1,5 @@
 
-# WebSockets draw on board
+# WebSocket Collaborative drawing board
 
 Collaborative board with webSocket
 
