@@ -1,7 +1,7 @@
 
 # WebSockets draw on board
 
-A simple collaborative whiteboard for socket.io
+Collaborative board with webSocket
 
 ## Instructions:
 
